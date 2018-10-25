@@ -122,18 +122,6 @@ for i=1:length(best_out2.SWIFT_type.exp)
     end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
 % Look at sensitivity to mixing caps
 mix_temp = NaN(1000,4);
 rand_mix = rand(1000,3);
