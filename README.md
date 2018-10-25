@@ -1,4 +1,4 @@
-# Thesis-Work---LDA
+# Thesis-Work-LDA
 This is MATLAB code developed by myself and Dr. Laura Lautz to fingerprint sources of chloride in shallow groundwater. It uses a form of the discriminant analysis classification algorithm. 
 
 This repositary contains four scripts related to this work. All with the prefix SFP standing for Swift FingerPrinting.
